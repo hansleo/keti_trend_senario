@@ -10,6 +10,8 @@
 
 `
      export ORACLE_HOME=/path/your/files/instantclient_11_2
+'
+'
      export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ORACLE_HOME
 `
 
