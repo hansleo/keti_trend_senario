@@ -29,4 +29,5 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ORACLE_HOME
 6. Install InfluxDB:
 <pre><code>wget https://dl.influxdata.com/influxdb/releases/influxdb_1.1.1_amd64.deb
  sudo dpkg -i influxdb_1.1.1_amd64.deb
+ sudo pip install influxdb
  </code></pre>
