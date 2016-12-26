@@ -7,9 +7,11 @@
  * instantclient-sdk
 
 2. Set the environment variables on ~/.bashrc or /etc/profile:
+"'
      export ORACLE_HOME=/path/your/files/instantclient_11_2
      export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ORACLE_HOME
- 
+"'
+
 3. make link files:
  '''
  cd $ORACLE_HOME
